@@ -1,6 +1,7 @@
 # Smile-please.github.io
-Simple responsive website :)
+Simple responsive website :) with creative background css ideas....
 
-used css to make different different backgrounds,animated background
+Used css to make different different backgrounds,animated background....
 For games i used simple java script codes...
 And thats all guys website is ready.
+you can see my website by clicking here("https://fuzzythinker.github.io/Smile-please.github.io/smile20%please.html")
